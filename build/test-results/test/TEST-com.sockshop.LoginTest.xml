@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sockshop.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-10T17:10:01" hostname="SPBFillefs-MacBook-Pro.local" time="4.458">
+  <properties/>
+  <testcase name="loginAsExistsUser" classname="com.sockshop.LoginTest" time="4.458"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 78.0.3904.70 (edb9c9f3de0247fd912a77b7f6cae7447f6d3ad5-refs/branch-heads/3904@{#800}) on port 40040
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1573405801.878][WARNING]: FromSockAddr failed on netmask
+Nov 10, 2019 8:10:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
